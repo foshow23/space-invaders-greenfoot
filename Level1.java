@@ -1,7 +1,7 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 public class Level1 extends World
 {
-    private int timer = 1500;
+    private int timer = 1000;
     private boolean isKeyPressed; // declares boolean for if keys are pressed
     Shooter plane; // declares Shooter as an instance 
     Bullet bullet; //declares Bullet.class as an instance 
