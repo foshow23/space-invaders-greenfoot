@@ -18,7 +18,7 @@ public class Level2 extends World
         setBackground(bg);
         showText("LEVEL TWO!", 60, 30); // displays Game Over
         plane = new Shooter();
-        addObject(plane, 200, 500); // adds Shooter at the bottom of the map
+        addObject(plane, 250, 500); // adds Shooter at the bottom of the map
         ufo = new Enemy2();
         addObject(ufo, 500 ,70);
         ufo = new Enemy2();
