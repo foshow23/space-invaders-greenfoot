@@ -7,7 +7,7 @@ A Space Invaders-style game built in Java using the [Greenfoot](https://www.gree
 - **3 levels** of increasing difficulty, each with a time limit
 - **3 enemy types**: standard aliens, UFOs, and a boss alien
 - **Power-ups**: force fields and ship upgrades available through a portal between levels
-- **Lives system**: represented by hearts — lose them all, and it's Game Over
+- **Lives system**: represented by hearts; lose them all, and it's Game Over
 - **Info & Rules screens** accessible from the start screen
 
 ## Controls
