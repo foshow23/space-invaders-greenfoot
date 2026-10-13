@@ -30,6 +30,3 @@ A Space Invaders-style game built in Java using the [Greenfoot](https://www.gree
 | `StartScreen.java` | Title/main menu screen |
 | `GameOver.java` / `WinScreen.java` | End-game screens |
 
-## Author
-
-Fifunmi Alawiye
