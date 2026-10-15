@@ -13,12 +13,6 @@ The game runs inside Greenfoot, a free program for Windows, macOS and Linux.
 
 If the start screen doesn't show up, right-click `StartScreen` in the class list on the right and choose `new StartScreen()`.
 
-Prefer Git? Clone it instead of downloading the ZIP:
-
-```bash
-git clone https://github.com/foshow23/space-invaders-greenfoot.git
-```
-
 The project was made in Greenfoot 3.1 and also opens in newer versions.
 
 ## Gameplay
